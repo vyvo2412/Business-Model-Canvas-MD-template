@@ -14,9 +14,12 @@ Add a very brief summary of each section in this table and provide details in th
   <tr>
     <td rowspan="2">
       <b><a href="Key_Partners.md">Key Partners</a></b>
-      <p>Who are our Key Partners?<br>
-      Who are our key suppliers?<br>
-      Which Key Activities do partners perform?</p>
+      <ul>
+        <li>Cloud email provider - </li>
+        <li>Banks</li>
+        <li>Advertising companies: Google, outlets</li>
+        <li>Data storage partners</li>
+      </ul>
     </td>
     <td>
       <b><a href="Key_Activities.md">Key Activities</a></b>
