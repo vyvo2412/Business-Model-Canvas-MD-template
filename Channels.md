@@ -1,2 +1,3 @@
 # Channels
-Innovieren believes current clients will be just as important as new buyers. As such; our sales representatives will work to develop a lasting relationships with our consumers. We provide personal assistances, self and automated services to maintain relationships and upsell product advancements. 
+<p>We will utilize Sales Representatives to manage customer contact via: Social Media, Web advertising (Google), phone calls, e-mails, website and face-to-face contact. Our client's will be able to evaluate our customizable program free for 120 days and purchase an annual, 2 years or 3 years subscriptions afterwards. Subscription purchases will be through our website and based on number of employees and years subscribed. Support will be provided via on-line chat/video and in person if needed.</p>
+
