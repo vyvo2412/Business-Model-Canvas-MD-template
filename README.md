@@ -58,15 +58,16 @@ Add a very brief summary of each section in this table and provide details in th
   <tr>
     <td colspan="3">
       <b><a href="Financial_Plan.md">Cost Structure</a></b>
-      <p>What are the most important costs to our business?<br>
-      Which Key Resources are most expensive?<br>
-      Which Key Activities are most expensive?<br>
+      <p>Innovieren spends a lot of capital investment on marketing and advertising, recruiting and training new sales representatives, . For future competitiveness and ability to achieve long-term profit, Innovieren will cut down overhead costs that incur in rent, utilities. Since our key activities of our business (digital product and services) occur mostly on an on-line platform, we would no longer request our employees to be at the office.<br>
+      Most expensive key resources are technical expertise (building and maintaining Digital Training Record - our application), employees' salaries, <br>
+      Most expensive key activities are <br>
       How does it coes to establish and run the business?</p>
     </td>
     <td colspan="3">
       <b><a href="Financial_Plan.md">Revenue Streams</a></b>
-      <p>For what value are customers willing to pay? <br>
-      How would they prefer to pay? <br>
+      <p>Our main revenue stream is from subscription fees. Other revenue streams come from training programs designed by our company that customers choose to add-on to the purchased subscription of Digital Training Record.<br>
+        Our customers are willing to pay for For what value are customers willing to pay? <br>
+      They would prefer to pay with  <br>
       What is the revenue structure?</p>
     </td>
   </tr>
